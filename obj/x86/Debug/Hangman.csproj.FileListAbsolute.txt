@@ -1,0 +1,5 @@
+/Users/Jarmo/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.csproj.CoreCompileInputs.cache
+/Users/Jarmo/Projects/Hangman/Hangman/bin/Debug/Hangman.exe
+/Users/Jarmo/Projects/Hangman/Hangman/bin/Debug/Hangman.pdb
+/Users/Jarmo/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.exe
+/Users/Jarmo/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.pdb
